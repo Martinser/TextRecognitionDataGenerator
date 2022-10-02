@@ -1,6 +1,11 @@
 # TextRecognitionDataGenerator
+1.生成码表
+  ```
+  python handle_font_file.py --file_path you_path_/
+  ```
 
 2.生成多字或者单字：
+
 2.1生成多字
   ```
   cd trdg
@@ -38,7 +43,7 @@
   在生成上述六种数据后运行handle_mutil_word.py
   ```
   cd ..
-  python handle_mutil_word.py --file_path you_path
+  python handle_mutil_word.py --file_path you_path/
   ```
   
 2.2生成单字
@@ -79,7 +84,7 @@
   在生成上述六种数据后运行handle_one_word.py
   ```
   cd ..
-  python handle_one_word.py --file_path you_path
+  python handle_one_word.py --file_path you_path/
   ```
 
 
