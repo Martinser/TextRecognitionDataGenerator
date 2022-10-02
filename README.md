@@ -1,12 +1,14 @@
 # TextRecognitionDataGenerator
-1.生成码表
+此次比赛生成的数据一共有六种类型
+
+**1.生成码表**
   ```
   python handle_font_file.py --file_path you_path_/
   ```
 
-2.生成多字或者单字：
+**2.生成多字或者单字：**
 
-2.1生成多字
+**2.1生成多字**
   ```
   cd trdg
   ```
@@ -46,7 +48,7 @@
   python handle_mutil_word.py --file_path you_path/
   ```
   
-2.2生成单字
+**2.2生成单字**
   ```
   cd trdg
   ```
