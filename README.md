@@ -120,8 +120,16 @@
   python handle_one_word.py --file_path you_path/
   ```
 
+字体相关文件下载链接
+*  [SimSun-ExtB.ttf](http://xiazaiziti.com/210549.html)
+* [SourceHanSans-Normal.ttf](https://github.com/Belval/TextRecognitionDataGenerator/tree/master/trdg/fonts/cn)
+* [biaosong.ttf]()
+* [cao.ttf]()
+* [hang.TTF]()
+* [kai.TTF]()
+* [li.TTF]()
 
-This repository is built using the [TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)repositories.
+This repository is built using the [TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) repositories.
 
 
 
