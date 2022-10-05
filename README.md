@@ -123,7 +123,7 @@
 字体相关文件下载链接
 *  [SimSun-ExtB.ttf](http://xiazaiziti.com/210549.html)
 * [SourceHanSans-Normal.ttf](https://github.com/Belval/TextRecognitionDataGenerator/tree/master/trdg/fonts/cn)
-* [biaosong.ttf]()
+* [biaosong.ttf](https://github.com/Martinser/TextRecognitionDataGenerator/releases/tag/font1.0)
 * [cao.ttf]()
 * [hang.TTF]()
 * [kai.TTF]()
